@@ -1,0 +1,2181 @@
+
+
+========== PAGE 1 ==========
+
+ 
+COs 
+POs 
+PSOs 
+PO 
+1 
+PO 
+2 
+PO 
+3 
+PO 
+4 
+PO 
+5 
+PO 
+6 
+PO 
+7 
+PO 
+8 
+PO 
+9 
+PO 
+10 
+PO 
+11 
+PO 
+12 
+PSO-1 PSO-2 
+PSO-3 
+CO-1 
+3 
+1 
+1 
+3 
+1 
+- 
+- 
+- 
+3 
+3 
+2 
+1 
+3 
+3 
+1 
+CO-2 
+2 
+3 
+1 
+3 
+2 
+- 
+- 
+- 
+1 
+2 
+2 
+2 
+1 
+2 
+2 
+CO-3 
+1 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+2 
+3 
+1 
+2 
+1 
+3 
+3 
+CO-4 
+1 
+2 
+3 
+3 
+1 
+- 
+- 
+- 
+3 
+2 
+1 
+3 
+3 
+3 
+3 
+CO-5 
+1 
+2 
+3 
+2 
+1 
+- 
+- 
+- 
+2 
+1 
+1 
+1 
+3 
+2 
+2 
+ 
+                                       CCS370 - UI AND UX DESIGN LABORATORY 
+ 
+                                                                  SYLLABUS 
+ 
+1. Designing a Responsive layout for an societal application 
+2. Exploring various UI Interaction Patterns 
+3. Developing an interface with proper UI Style Guides 
+4. Developing Wireflow diagram for application using open source software 
+5. Exploring various open source collaborative interface Platform 
+6. Hands on Design Thinking Process for a new product 
+7. Brainstorming feature for proposed product 
+8. Defining the Look and Feel of the new Project 
+9. Create a Sample Pattern Library for that product (Mood board, Fonts, Colors 
+based on UI principles) 
+10. Identify a customer problem to solve 
+11. Conduct end-to-end user research - User research, creating 
+personas, Ideation process (User stories, Scenarios), Flow 
+diagrams, Flow Mapping 
+12. Sketch, design with popular tool and build a prototype and 
+perform usability testing and identify improvements. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 2 ==========
+
+ 
+                                             LIST OF EXPERIMENTS 
+ 
+ 
+ 
+Sl. 
+No. 
+ 
+Date 
+ 
+Title 
+ 
+Page 
+No. 
+ 
+Marks 
+ 
+Sign 
+ 
+1 
+ 
+Designing a Responsive layout for an 
+societal 
+application 
+ 
+2 
+Exploring various UI Interaction Patterns 
+ 
+3 
+Developing an interface with proper UI 
+Style Guides 
+ 
+4 
+Developing Wireflow diagram for 
+application using open source software 
+ 
+5 
+Exploring various open source 
+collaborative interface Platform 
+ 
+6 
+Hands on Design Thinking Process for a 
+new product 
+ 
+7 
+ 
+Brainstorming feature for proposed product 
+ 
+8 
+Defining the Look and Feel of the new 
+Project 
+ 
+9 
+Create a Sample Pattern Library for that 
+product (Mood board, Fonts, Colors 
+based on UI principles) 
+ 
+10 
+Identify a customer problem to solve 
+ 
+ 
+ 
+11 
+Conduct end-to-end user research - User 
+research, creating personas, Ideation 
+process (User stories, Scenarios), Flow 
+diagrams, Flow 
+Mapping 
+ 
+12 
+Sketch, design with popular tool and build 
+a prototype and perform usability testing 
+andidentify improvements 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 3 ==========
+
+EX. NO: 1 
+Designing a Responsive layout for an societal application 
+DATE: 
+ 
+AIM 
+The aim of designing a responsive layout for a societal application in UI and UX design is to 
+create a user-friendly, visually appealing platform that encourages engagement, inclusivity, and 
+efficient communication, while ensuring accessibility, performance, and security. 
+PROCEDURE 
+Step – 1: Define goals and audience. 
+Step – 2: Research user preferences. 
+Step – 3: Create wireframes. 
+Step – 4: Choose design elements. 
+Step – 5: Apply responsive design principles. 
+Step – 6: Use a grid system. 
+Step – 7: Optimize typography and media. 
+Step – 8: Design intuitive navigation. 
+Step – 9: Develop using HTML/CSS/JS. 
+Step – 10: Test on various devices. 
+Step – 11: Collect user feedback. 
+Step – 12: Iterate and launch. 
+Step – 13: Continuously evaluate and update. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 4 ==========
+
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<link rel="stylesheet" href="styles.css"> 
+<title>Societal App</title> 
+</head> 
+<body> 
+<header> 
+<h1>Welcome to Societal App</h1> 
+</header> 
+<nav> 
+<ul> 
+<li><a href="#">Home</a></li> 
+<li><a href="#">Posts</a></li> 
+<li><a href="#">Profile</a></li> 
+</ul> 
+</nav> 
+<main> 
+<section> 
+<h2>Latest Posts</h2> 
+<article> 
+<h3>Post Title 1</h3> 
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p> 
+</article> 
+<article> 
+<h3>Post Title 2</h3> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 5 ==========
+
+<p>Proin eget ante sed ex hendrerit laoreet...</p> 
+</article> 
+</section> 
+</main> 
+<footer> 
+<p>&copy; 2023 Societal App</p> 
+</footer> 
+<!-- Optional JavaScript inclusion --> 
+<script src="script.js"></script> 
+</body> 
+</html> 
+CSS 
+/* Reset some default browser styles */ 
+body, h1, h2, h3, p, ul, li, a { 
+margin: 0; 
+padding: 0; 
+list-style: none; 
+text-decoration: none; 
+color: #333; 
+} 
+body { 
+font-family: Arial, sans-serif; 
+background-color: #f0f0f0; 
+} 
+header { 
+lOMoARcPSD|44174286
+
+
+========== PAGE 6 ==========
+
+background-color: #0078d4; 
+color: white; 
+text-align: center; 
+padding: 20px; 
+} 
+nav { 
+background-color: #333; 
+color: white; 
+text-align: center; 
+padding: 10px; 
+} 
+nav ul { 
+display: flex; 
+justify-content: center; 
+} 
+nav li { 
+margin: 0 20px; 
+} 
+nav a { 
+color: white; 
+font-weight: bold; 
+} 
+main { 
+padding: 20px; 
+} 
+lOMoARcPSD|44174286
+
+
+========== PAGE 7 ==========
+
+JAVASCRIPT 
+// Get references to the navigation links 
+const homeLink = document.querySelector('nav ul li:nth-child(1) a'); 
+const postsLink = document.querySelector('nav ul li:nth-child(2) a'); 
+const profileLink = document.querySelector('nav ul li:nth-child(3) a'); 
+ 
+// Get references to the main content area 
+const mainContent = document.querySelector('main'); 
+// Define content for different "pages" 
+const homeContent = ` 
+<h2>Welcome to Societal App</h2> 
+<p>This is the home page of our application.</p> 
+`; 
+const postsContent = ` 
+<h2>Latest Posts</h2> 
+<article> 
+<h3>Post Title 1</h3> 
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p> 
+</article> 
+<article> 
+<h3>Post Title 2</h3> 
+<p>Proin eget ante sed ex hendrerit laoreet...</p> 
+</article> 
+`; 
+const profileContent = ` 
+lOMoARcPSD|44174286
+
+
+========== PAGE 8 ==========
+
+<h2>User Profile</h2> 
+<p>This is your user profile page.</p> 
+`; 
+// Add click event listeners to the navigation links 
+homeLink.addEventListener('click', () => { 
+mainContent.innerHTML = homeContent; 
+}); 
+postsLink.addEventListener('click', () => { 
+mainContent.innerHTML = postsContent; 
+}); 
+profileLink.addEventListener('click', () => { 
+mainContent.innerHTML = profileContent; 
+}); 
+// Initial content (home page) 
+mainContent.innerHTML = homeContent; 
+OUTPUT 
+ 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 9 ==========
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+The code creates a basic responsive web page for a societal application with a header, navigation 
+menu, main content area, and footer. Clicking on navigation links changes the content displayed 
+in the main area, simulating page transitions. The page adapts to different screen sizes. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 10 ==========
+
+EX. NO: 2 
+Exploring various UI Interaction Patterns 
+DATE: 
+ 
+ 
+AIM 
+The aim is to create an engaging and user-friendly interface by understanding and implementing 
+various UI interaction patterns to enhance the user experience. 
+PROCEDURE 
+Step – 1: Research & Objectives: Understand users and set clear goals. 
+Step – 2: Explore Patterns: Research and select suitable UI interaction patterns. 
+Step – 3: Wireframing & Prototyping: Create wireframes and interactive prototypes. 
+Step – 4: Design Elements: Define visual elements like colors and typography. 
+Step – 5: Implementation: Develop using HTML, CSS, JavaScript, or other technologies. 
+Step – 6: User Testing: Gather user feedback and test the UI interactions. 
+Step – 7: Iteration: Make improvements based on user feedback for a more engaging user 
+experience. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<link rel="stylesheet" href="styles.css"> 
+<title>Toggle Switch Example</title> 
+</head> 
+<body> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 11 ==========
+
+<label class="switch"> 
+<input type="checkbox" id="toggleSwitch"> 
+<span class="slider"></span> 
+</label> 
+<div id="content" class="off"> 
+<p>This content changes when the toggle switch is turned on.</p> 
+</div> 
+<script src="script.js"></script> 
+</body> 
+</html> 
+CSS 
+/* Basic styles for the toggle switch */ 
+.switch { 
+position: relative; 
+display: inline-block; 
+width: 60px; 
+height: 34px; 
+} 
+.switch input { 
+opacity: 0; 
+width: 0; 
+height: 0; 
+} 
+.slider { 
+position: absolute; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 12 ==========
+
+cursor: pointer; 
+top: 0; 
+left: 0; 
+right: 0; 
+bottom: 0; 
+background-color: #ccc; 
+-webkit-transition: .4s; 
+transition: .4s; 
+} 
+.slider:before { 
+position: absolute; 
+content: ""; 
+height: 26px; 
+width: 26px; 
+left: 4px; 
+bottom: 4px; 
+background-color: white; 
+-webkit-transition: .4s; 
+transition: .4s; 
+} 
+input:checked + .slider { 
+background-color: #2196F3; 
+} 
+input:focus + .slider { 
+box-shadow: 0 0 1px #2196F3; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 13 ==========
+
+} 
+input:checked + .slider:before { 
+transform: translateX(26px); 
+} 
+/* Styles for the content area */ 
+.off { 
+display: none; 
+} 
+.on { 
+display: block; 
+} 
+JAVASCRIPT 
+const toggleSwitch = document.getElementById("toggleSwitch"); 
+const content = document.getElementById("content"); 
+ 
+toggleSwitch.addEventListener("change", function() { 
+if (toggleSwitch.checked) { 
+content.classList.remove("off"); 
+content.classList.add("on"); 
+} else { 
+content.classList.remove("on"); 
+content.classList.add("off"); 
+} 
+}); 
+lOMoARcPSD|44174286
+
+
+========== PAGE 14 ==========
+
+OUTPUT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+The code creates a simple web page with a toggle switch. When the switch is turned on, the 
+background color of the content area changes, and the content becomes visible. It illustrates the 
+"Toggle Switch" UI interaction pattern, commonly used for enabling or disabling features. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 15 ==========
+
+EX. NO: 3 
+Developing an interface with proper UI Style Guides 
+DATE: 
+ 
+ 
+AIM 
+The aim is to create a user interface with a consistent and visually appealing design by following 
+established UI Style Guides. This enhances usability and the overall user experience. 
+PROCEDURE 
+Step – 1: Define Goals: Clearly outline project objectives. 
+Step – 2: Select Style Guide: Choose or create a UI Style Guide. 
+Step – 3: Understand Guide: Familiarize with its design principles. 
+Step – 4: User Research: Understand user needs and preferences. 
+Step – 5: Wireframing & Prototyping: Create visuals based on the guide. 
+Step – 6: Design Elements: Apply guide's design elements (colors, typography). 
+Step – 7: UI Components: Use recommended UI components and patterns. 
+Step – 8: Coding: Write HTML, CSS, and JavaScript following the guide. 
+Step – 9: User Testing: Test with users for feedback. 
+Step – 10: Feedback & Iteration: Improve based on feedback. 
+Step – 11: Documentation: Create a reference document for consistency. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 16 ==========
+
+<link rel="stylesheet" href="styles.css"> 
+<title>Material Design Example</title> 
+</head> 
+<body> 
+<header class="md-header"> 
+<h1 class="md-title">Welcome to Material Design</h1> 
+</header> 
+<main> 
+<div class="md-card"> 
+<h2 class="md-card-title">Card Title</h2> 
+<p class="md-card-content">This is a card with content following Material Design 
+principles.</p> 
+</div> 
+</main> 
+<footer class="md-footer"> 
+<p>&copy; 2023 Material Design Example</p> 
+</footer> 
+</body> 
+</html> 
+CSS 
+/* Material Design styles */ 
+.md-header { 
+background-color: #2196F3; 
+color: white; 
+text-align: center; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 17 ==========
+
+padding: 20px; 
+} 
+.md-title { 
+font-size: 24px; 
+} 
+.md-card { 
+background-color: white; 
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+border-radius: 4px; 
+padding: 20px; 
+margin: 20px; 
+} 
+.md-card-title { 
+font-size: 18px; 
+margin-bottom: 10px; 
+} 
+.md-card-content { 
+font-size: 16px; 
+} 
+.md-footer { 
+background-color: #666; 
+color: white; 
+text-align: center; 
+padding: 10px; 
+} 
+lOMoARcPSD|44174286
+
+
+========== PAGE 18 ==========
+
+JAVASCRIPT 
+// Get a reference to the card element 
+const card = document.querySelector('.md-card'); 
+// Add a click event listener to change the card's background color 
+card.addEventListener('click', () => { 
+// Toggle background color between white and a light Material Design blue 
+if (card.style.backgroundColor === 'white' || card.style.backgroundColor === '') { 
+card.style.backgroundColor = '#E3F2FD'; 
+} else { 
+card.style.backgroundColor = 'white'; 
+} 
+}); 
+OUTPUT 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 19 ==========
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+The result is a visually consistent web page following Material Design principles, with a 
+clickable card that provides a simple interactive experience. This output can serve as a 
+foundation for more complex web applications that adhere to Material Design or similar UI Style 
+Guides, delivering a cohesive and user-friendly user interface. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 20 ==========
+
+EX. NO: 4 
+Developing Wireflow diagram for application using open source software 
+DATE: 
+ 
+AIM 
+The aim of developing a wireflow diagram for an application using open-source software in 
+UI/UX design is to visually represent the user flow and interface layout, enabling efficient 
+planning, collaboration, and communication among project stakeholders. This process helps 
+ensure a user-centric and well-structured application design while keeping design costs in check. 
+PROCEDURE 
+Step – 1: Define project scope and objectives. 
+Step – 2: Select open-source wireframing software. 
+Step – 3: Plan the user flow. 
+Step – 4: Create wireframes using the software. 
+Step – 5: Add interface elements. 
+Step – 6: Connect wireframes to show user flow. 
+Step – 7: Annotate and document the wireflow. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Wireflow Diagram</title> 
+<style> 
+body { 
+lOMoARcPSD|44174286
+
+
+========== PAGE 21 ==========
+
+font-family: Arial, sans-serif; 
+margin: 20px; 
+} 
+h1 { 
+text-align: center; 
+} 
+ul { 
+list-style: none; 
+padding: 0; 
+} 
+li { 
+margin: 10px 0; 
+} 
+a { 
+text-decoration: none; 
+color: #0074D9; 
+} 
+a:hover { 
+text-decoration: underline; 
+} 
+.page { 
+margin: 20px 0; 
+} 
+</style> 
+</head> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 22 ==========
+
+<body> 
+<h1>Wireflow Diagram</h1> 
+<ul> 
+<li><a href="#page1">Page 1 - Home</a></li> 
+<li><a href="#page2">Page 2 - About</a></li> 
+<li><a href="#page3">Page 3 - Contact</a></li> 
+</ul> 
+<div class="page" id="page1"> 
+<h2>Page 1 - Home</h2> 
+<p>This is the Home page wireframe content.</p> 
+<a href="#page2">Go to About</a> 
+</div> 
+<div class="page" id="page2"> 
+<h2>Page 2 - About</h2> 
+<p>This is the About page wireframe content.</p> 
+<a href="#page3">Go to Contact</a> 
+</div> 
+<div class="page" id="page3"> 
+<h2>Page 3 - Contact</h2> 
+<p>This is the Contact page wireframe content.</p> 
+<a href="#page1">Go to Home</a> 
+</div> 
+</body> 
+</html> 
+CSS 
+lOMoARcPSD|44174286
+
+
+========== PAGE 23 ==========
+
+/* Reset some default styles */ 
+body, h1, h2, p { 
+margin: 0; 
+padding: 0; 
+} 
+body { 
+font-family: Arial, sans-serif; 
+margin: 20px; 
+background-color: #F2F2F2; 
+} 
+h1 { 
+text-align: center; 
+color: #333; 
+margin-top: 20px; 
+} 
+ul { 
+list-style: none; 
+padding: 0; 
+} 
+li { 
+margin: 10px 0; 
+} 
+a { 
+text-decoration: none; 
+color: #0074D9; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 24 ==========
+
+transition: text-decoration 0.2s; 
+} 
+a:hover { 
+text-decoration: underline; 
+} 
+.page { 
+background-color: #FFF; 
+border: 1px solid #DDD; 
+padding: 20px; 
+margin: 20px 0; 
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+border-radius: 5px; 
+} 
+.page h2 { 
+color: #0074D9; 
+} 
+.page p { 
+color: #333; 
+} 
+JAVASCRIPT 
+// JavaScript to highlight the active page link 
+document.addEventListener("DOMContentLoaded", function () { 
+const pageLinks = document.querySelectorAll("ul li a"); 
+pageLinks.forEach((link) => { 
+link.addEventListener("click", (event) => { 
+lOMoARcPSD|44174286
+
+
+========== PAGE 25 ==========
+
+pageLinks.forEach((l) => l.classList.remove("active")); 
+event.target.classList.add("active"); 
+}); 
+}); 
+}); 
+OUTPUT 
+ 
+RESULT 
+A web page that displays a basic wireflow diagram with navigation links, wireframe content for 
+different screens or pages, and optional interactivity if JavaScript is included. This wireflow 
+serves as a visual representation of the application's user flow and basic interface design. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 26 ==========
+
+EX. NO: 5 
+Exploring various open source collaborative interface Platform 
+DATE: 
+ 
+AIM 
+The aim is to identify and use open-source collaborative interface platforms to enhance 
+teamwork, streamline design processes, and create user-friendly interfaces efficiently. 
+PROCEDURE 
+Step – 1: Define project objectives. 
+Step – 2: Research open-source tools. 
+Step – 3: Evaluate features. 
+Step – 4: Select the right platform. 
+Step – 5: Onboard team members. 
+Step – 6: Collaborate on design. 
+Step – 7: Conduct user testing and gather feedback. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Collaborative Design Platform</title> 
+</head> 
+<body> 
+<h1>Explore Open-Source Collaborative UI/UX Design</h1> 
+<!-- Embed Figma project --> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 27 ==========
+
+<div class="figma-embed"> 
+<!-- Replace 'YOUR_FIGMA_URL' with your Figma project URL --> 
+<iframe 
+src="https://www.figma.com/embed?embed_host=share&url=YOUR_FIGMA_URL" 
+width="800" height="600" allowfullscreen></iframe> 
+</div> 
+</body> 
+</html> 
+CSS 
+/* Reset some default styles */ 
+body, h1, iframe { 
+margin: 0; 
+padding: 0; 
+} 
+body { 
+font-family: Arial, sans-serif; 
+background-color: #f2f2f2; 
+margin: 20px; 
+} 
+h1 { 
+text-align: center; 
+padding: 20px; 
+} 
+iframe { 
+display: block; 
+margin: 0 auto; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 28 ==========
+
+border: 1px solid #ccc; 
+border-radius: 5px; 
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+} 
+JAVASCRIPT 
+// Make the iframe responsive 
+const iframe = document.querySelector('iframe'); 
+function resizeIframe() { 
+iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px'; 
+} 
+iframe.onload = resizeIframe; 
+window.addEventListener('resize', resizeIframe); 
+OUTPUT 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 29 ==========
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+Exploring public source Figma URLs and design resources allows you to access pre-designed 
+templates, find design inspiration, speed up your own design process, learn from experienced 
+designers, and engage with the design community. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 30 ==========
+
+EX. NO: 6 
+Hands On Design Thinking Process For A New Product 
+DATE: 
+ 
+AIM 
+Create a user-friendly task management mobile app. 
+PROCEDURE 
+Step - 1: Understand user needs and problems. 
+Step - 2: Identify the problem and set goals. 
+Step - 3: Brainstorm solutions and features. 
+Step - 4: Create low-fidelity wireframes and an interactive prototype. 
+Step -5: Gather feedback on usability and design. 
+Step - 6: Write code for the app. 
+Step - 7: Ensure quality and compatibility. 
+Step - 8: Release the app to app stores. 
+Step - 9: Collect user feedback and measure success. 
+Step - 10: Make improvements based on feedback. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Task Management App</title> 
+<link rel="stylesheet" type="text/css" href="style.css"> 
+</head> 
+<body> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 31 ==========
+
+<header> 
+<h1>Task Manager</h1> 
+</header> 
+<main> 
+<div id="task-list"> 
+<!-- Tasks will be dynamically added here --> 
+</div> 
+<button id="add-task">Add Task</button> 
+</main> 
+<script src="app.js"></script> 
+</body> 
+</html> 
+CSS 
+body { 
+font-family: Arial, sans-serif; 
+} 
+header { 
+background-color: #007BFF; 
+color: #fff; 
+text-align: center; 
+padding: 20px; 
+} 
+main { 
+padding: 20px; 
+} 
+lOMoARcPSD|44174286
+
+
+========== PAGE 32 ==========
+
+#task-list { 
+margin-top: 20px; 
+} 
+#add-task { 
+background-color: #007BFF; 
+color: #fff; 
+border: none; 
+padding: 10px 20px; 
+cursor: pointer; 
+} 
+JAVA SCRIPT 
+const taskList = document.getElementById('task-list'); 
+const addTaskButton = document.getElementById('add-task'); 
+addTaskButton.addEventListener('click', function () { 
+const taskName = prompt('Enter a task:'); 
+if (taskName) { 
+const taskItem = document.createElement('div'); 
+taskItem.textContent = taskName; 
+taskList.appendChild(taskItem); 
+} 
+}); 
+OUTPUT 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 33 ==========
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+Thu the code creates a simple task list interface for adding and displaying tasks. It's a basic 
+prototype, not a fully functional app. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 34 ==========
+
+EX. NO: 7 
+Brainstroming For Proposed Product 
+DATE: 
+ 
+AIM 
+The aim is to create an intuitive, engaging, and accessible online event management platform 
+that simplifies event organization, enhances the user experience for both event organizers and 
+attendees, and potentially increases revenue for event organizers. 
+PROCEDURE 
+Step - 1: User registration and authentication. 
+Step - 2: Event creation and storage. 
+Step - 3: Ticketing and registration system. 
+Step - 4: Event discovery and recommendation. 
+Step - 5: Detailed event pages. 
+Step - 6: Feedback collection and ratings. 
+Step - 7: Event notifications. 
+Step - 8: Secure payment processing. 
+Step - 9: Social media integration. 
+Step - 10: Real-time chat feature. 
+Step - 11: Analytics and reporting for event organizers. 
+Step - 12: Ensure accessibility and inclusivity. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Event Management Platform</title> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 35 ==========
+
+<link rel="stylesheet" type="text/css" href="style.css"> 
+</head> 
+<body> 
+<header> 
+<h1>Welcome to the Event Management Platform</h1> 
+</header> 
+<main> 
+<section id="event-list"> 
+<h2>Upcoming Events</h2> 
+<!-- Display a list of upcoming events here --> 
+<ul> 
+<li> 
+<h3>Event 1</h3> 
+<p>Date: [Event Date]</p> 
+<p>Location: [Event Location]</p> 
+<button>Register</button> 
+</li> 
+<!-- Repeat for other events --> 
+</ul> 
+</section> 
+<section id="registration-form"> 
+<h2>Event Registration</h2> 
+<form> 
+<label for="name">Full Name:</label> 
+<input type="text" id="name" name="name" required> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 36 ==========
+
+<label for="email">Email:</label> 
+<input type="email" id="email" name="email" required> 
+<label for="event">Select Event:</label> 
+<select id="event" name="event" required> 
+<option value="event1">Event 1</option> 
+<!-- Add options for other events --> 
+</select> 
+<button type="submit">Register</button> 
+</form> 
+</section> 
+</main> 
+<footer> 
+<p>&copy; 2023 Event Management Platform</p> 
+</footer> 
+</body> 
+</html> 
+CSS 
+/* Reset some default browser styles */ 
+body, h1, h2, p, ul, li, form, button, label, input, select { 
+margin: 0; 
+padding: 0; 
+} 
+body { 
+font-family: Arial, sans-serif; 
+background-color: #f0f0f0; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 37 ==========
+
+margin: 0; 
+padding: 0; 
+} 
+header { 
+background-color: #007BFF; 
+color: #fff; 
+text-align: center; 
+padding: 20px; 
+} 
+main { 
+padding: 20px; 
+} 
+section { 
+background-color: #fff; 
+padding: 20px; 
+margin-bottom: 20px; 
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+} 
+h1, h2 { 
+color: #007BFF; 
+} 
+ul { 
+list-style: none; 
+} 
+li { 
+lOMoARcPSD|44174286
+
+
+========== PAGE 38 ==========
+
+margin: 10px 0; 
+} 
+button { 
+background-color: #007BFF; 
+color: #fff; 
+border: none; 
+padding: 10px 20px; 
+cursor: pointer; 
+} 
+form { 
+max-width: 300px; 
+margin: 0 auto; 
+} 
+label, input, select { 
+display: block; 
+margin-bottom: 10px; 
+} 
+/* Additional styling can be added to customize your design further */ 
+JAVASCRIPT 
+// Example front-end JavaScript for event management platform 
+// Simulated data for events (replace with actual data from the server) 
+const events = [ 
+{ name: 'Event 1', date: '2023-01-15', location: 'Location A' }, 
+{ name: 'Event 2', date: '2023-02-20', location: 'Location B' }, 
+// Add more events here 
+lOMoARcPSD|44174286
+
+
+========== PAGE 39 ==========
+
+]; 
+// Function to display events 
+function displayEvents() { 
+const eventList = document.getElementById('event-list'); 
+events.forEach(event => { 
+const eventItem = document.createElement('li'); 
+eventItem.innerHTML = ` 
+<h3>${event.name}</h3> 
+<p>Date: ${event.date}</p> 
+<p>Location: ${event.location}</p> 
+<button onclick="registerForEvent('${event.name}')">Register</button> 
+`; 
+eventList.appendChild(eventItem); 
+}); 
+} 
+// Function to register for an event 
+function registerForEvent(eventName) { 
+// Replace with code to handle event registration 
+alert(`Registered for ${eventName}!`); 
+} 
+// Load events when the page loads 
+window.addEventListener('load', displayEvents); 
+lOMoARcPSD|44174286
+
+
+========== PAGE 40 ==========
+
+OUTPUT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+Thus the program to create an intuitive, engaging, and accessible online event management 
+platform that simplifies event organization, enhances the user experience for both event 
+organizers and attendees, and potentially increases revenue for event organizers is successfully 
+executed. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 41 ==========
+
+EX. NO: 8 
+Defining The Look And Feel Of The New Project 
+DATE: 
+ 
+AIM 
+The aim for defining the look and feel of a new project in UI and UX design is to create a 
+visually engaging and aesthetically pleasing user interface that enhances user experience, aligns 
+with the project's goals, and resonates with the target audience. 
+PROCEDURE 
+Step - 1: Project Analysis: Understand goals and user needs. 
+Step - 2: User Persona: Create user profiles. 
+Step - 3: Competitor Analysis: Research competitors. 
+Step - 4: Wireframing and Mockups: Sketch design concepts. 
+Step - 5: Color and Typography: Select visuals. 
+Step - 6: Visual Elements: Decide icons and images. 
+Step - 7: Interactive Elements: Plan user interactions. 
+Step - 8: Accessibility: Ensure inclusivity. 
+Step - 9: User Testing: Collect feedback. 
+Step - 10: Iteration: Refine design based on feedback. 
+Step - 11: Style Guide: Document design choices. 
+Step - 12: Handoff: Share with development team. 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>UI/UX Design Style Guide</title> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 42 ==========
+
+<link rel="stylesheet" type="text/css" href="style.css"> 
+</head> 
+<body> 
+<header> 
+<h1>Design Style Guide</h1> 
+</header> 
+<main> 
+<section id="colors"> 
+<h2>Colors</h2> 
+<div class="color-box" id="primary"></div> 
+<div class="color-box" id="secondary"></div> 
+</section> 
+<section id="typography"> 
+<h2>Typography</h2> 
+<p class="font-heading">Heading Font</p> 
+<p class="font-body">Body Font</p> 
+</section> 
+</main> 
+<script src="script.js"></script> 
+</body> 
+</html> 
+CSS 
+body { 
+font-family: Arial, sans-serif; 
+} 
+lOMoARcPSD|44174286
+
+
+========== PAGE 43 ==========
+
+header { 
+background-color: #007BFF; 
+color: #fff; 
+text-align: center; 
+padding: 20px; 
+} 
+main { 
+padding: 20px; 
+} 
+h2 { 
+color: #007BFF; 
+} 
+.color-box { 
+width: 100px; 
+height: 100px; 
+margin: 10px; 
+display: inline-block; 
+} 
+#primary { 
+background-color: #007BFF; 
+} 
+#secondary { 
+background-color: #FF6C00; 
+} 
+.font-heading { 
+lOMoARcPSD|44174286
+
+
+========== PAGE 44 ==========
+
+font-family: 'Arial', sans-serif; 
+font-weight: bold; 
+font-size: 24px; 
+} 
+.font-body { 
+font-family: 'Arial', sans-serif; 
+font-size: 16px; 
+} 
+JAVASCRIPT 
+// JavaScript for interaction (optional) 
+// Change the background color of the primary color box on click 
+document.getElementById("primary").addEventListener("click", function () { 
+this.style.backgroundColor = "#FF0000"; 
+}); 
+// Change the background color of the secondary color box on double-click 
+document.getElementById("secondary").addEventListener("dblclick", function () { 
+this.style.backgroundColor = "#00FF00"; 
+}); 
+OUTPUT 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 45 ==========
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+Thus the result is a webpage with a design style guide showing color and typography elements. 
+JavaScript allows you to interactively change the colors of the color boxes. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 46 ==========
+
+EX. NO: 9 
+Create a Sample Pattern Library for that product (Mood board, Fonts, 
+Colors based on UI principles) 
+DATE: 
+ 
+AIM 
+The aim of this sample pattern library is to provide a comprehensive and organized resource for 
+UI and UX design, fostering consistency, creativity, and user-centricity throughout the product 
+development process. 
+PROCEDURE 
+Step – 1: Initiate the Design Process 
+Step – 2: Mood Board Creation 
+Step – 3: Font Selection 
+Step – 4: Color Palette Definition 
+Step – 5: UI Principles 
+Step – 6: Documentation and Collaboration 
+Step – 7: Iterative Design Process 
+Step – 8: Implementation in Design Process 
+Step – 9: Testing and Feedback Loop 
+Step – 10: Finalization 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Sample Design System</title> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 47 ==========
+
+<style> 
+body { 
+font-family: 'Arial', sans-serif; 
+line-height: 1.6; 
+margin: 0; 
+padding: 0; 
+} 
+header { 
+background-color: #333; 
+color: #fff; 
+padding: 1rem; 
+text-align: center; 
+} 
+section { 
+margin: 2rem; 
+} 
+h2 { 
+color: #333; 
+} 
+p { 
+color: #555; 
+} 
+.color-swatch { 
+width: 50px; 
+height: 50px; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 48 ==========
+
+margin: 0 10px 10px 0; 
+display: inline-block; 
+border: 1px solid #ccc; 
+} 
+</style> 
+</head> 
+<body> 
+<header> 
+<h1>Sample Design System</h1> 
+</header> 
+<section> 
+<h2>Mood Board</h2> 
+<p>Collect inspiration from various sources and present it in a visually appealing way.</p> 
+<!-- Insert mood board images here --> 
+</section> 
+<section> 
+<h2>Fonts</h2> 
+<p>Choose primary and secondary fonts, define sizes and weights, and document in a style 
+guide.</p> 
+<!-- Insert typography style guide here --> 
+</section> 
+<section> 
+<h2>Colors</h2> 
+<p>Identify brand colors, establish relationships, and ensure accessibility. Document in a 
+palette.</p> 
+<div class="color-swatch" style="background-color: #3498db;"></div> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 49 ==========
+
+<div class="color-swatch" style="background-color: #2ecc71;"></div> 
+<div class="color-swatch" style="background-color: #e74c3c;"></div> 
+<!-- Add more color swatches --> 
+</section> 
+<section> 
+<h2>UI Principles</h2> 
+<p>Identify user needs, prioritize simplicity and consistency. Document key principles.</p> 
+<!-- Insert UI principles documentation here --> 
+</section> 
+<!-- Add more sections for additional components of your design system --> 
+</body> 
+</html> 
+CSS 
+body { 
+font-family: 'Arial', sans-serif; 
+line-height: 1.6; 
+margin: 0; 
+padding: 0; 
+} 
+header { 
+background-color: #333; 
+color: #fff; 
+padding: 1rem; 
+text-align: center; 
+} 
+lOMoARcPSD|44174286
+
+
+========== PAGE 50 ==========
+
+section { 
+margin: 2rem; 
+} 
+h2 { 
+color: #333; 
+} 
+p { 
+color: #555; 
+} 
+.color-swatch { 
+width: 50px; 
+height: 50px; 
+margin: 0 10px 10px 0; 
+display: inline-block; 
+border: 1px solid #ccc; 
+} 
+JAVASCRIPT 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Sample Design System</title> 
+<style> 
+/* Your existing CSS goes here */ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 51 ==========
+
+</style> 
+</head> 
+<body> 
+<header> 
+<h1>Sample Design System</h1> 
+</header> 
+<button onclick="toggleSection('moodBoard')">Toggle Mood Board</button> 
+<button onclick="toggleSection('fonts')">Toggle Fonts</button> 
+<button onclick="toggleSection('colors')">Toggle Colors</button> 
+<button onclick="toggleSection('uiPrinciples')">Toggle UI Principles</button> 
+<section id="moodBoard"> 
+<!-- Mood Board content goes here --> 
+</section> 
+<section id="fonts"> 
+<!-- Fonts content goes here --> 
+</section> 
+<section id="colors"> 
+<!-- Colors content goes here --> 
+</section> 
+<section id="uiPrinciples"> 
+<!-- UI Principles content goes here --> 
+</section> 
+<script> 
+function toggleSection(sectionId) { 
+var section = document.getElementById(sectionId); 
+lOMoARcPSD|44174286
+
+
+========== PAGE 52 ==========
+
+section.style.display = (section.style.display === 'none' || section.style.display === '') ? 
+'block' : 'none'; 
+} 
+</script> 
+</body> 
+</html> 
+OUTPUT 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 53 ==========
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+The sample pattern library results in Consistency, Efficiency, User Experience, Collaboration, 
+Brand Identity, Best Practices. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 54 ==========
+
+EX. NO: 10 
+Identify a customer problem to solve 
+DATE: 
+ 
+ 
+AIM 
+The primary aim is to enhance user engagement and reduce bounce rates on product pages 
+through a comprehensive UI/UX redesign. This involves addressing identified pain points, 
+optimizing performance, and implementing design improvements to create a more compelling 
+and user-friendly experience. The goal is to positively impact user satisfaction, increase 
+conversion rates, and contribute to the overall success of the digital product. 
+PROCEDURE 
+Step – 1: User Research 
+Step – 2: Identify Common Issues 
+Step – 3: Competitor Analysis 
+Step – 4: Prioritize Issues 
+Step – 5: Optimize Page Load Times 
+Step – 6: Simplify Layout 
+Step – 7: Enhance Visual Hierarchy 
+Step – 8: Mobile Responsiveness 
+Step – 9: A/B Testing 
+Step – 10: Iterative Improvement 
+PROGRAM 
+HTML 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 55 ==========
+
+<link rel="stylesheet" href="styles.css"> 
+<script defer src="script.js"></script> 
+<title>Your Product Page</title> 
+</head> 
+<body> 
+<header> 
+<h1>Product Name</h1> 
+</header> 
+<main class="product-container"> 
+<section class="product-details"> 
+<img data-src="https://picsum.photos/800/600" alt="Product Image"> 
+<h2>Product Description</h2> 
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor 
+incididunt ut labore et dolore magna aliqua.</p> 
+<button>Add to Cart</button> 
+</section> 
+<section class="related-products"> 
+<h2>Related Products</h2> 
+<!-- Add related product links or images here --> 
+</section> 
+</main> 
+<footer> 
+<p>&copy; 2023 Your Company Name. All rights reserved.</p> 
+</footer> 
+</body> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 56 ==========
+
+</html> 
+CSS 
+body { 
+font-family: 'Arial', sans-serif; 
+line-height: 1.6; 
+background-color: #f8f8f8; 
+color: #333; 
+margin: 0; 
+} 
+header, footer { 
+background-color: #4CAF50; 
+color: #fff; 
+text-align: center; 
+padding: 1em; 
+} 
+.product-container { 
+max-width: 800px; 
+margin: 0 auto; 
+background-color: #fff; 
+padding: 1em; 
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+} 
+.product-details img { 
+width: 100%; 
+height: auto; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 57 ==========
+
+} 
+.product-details button { 
+background-color: #4CAF50; 
+color: #fff; 
+padding: 10px; 
+border: none; 
+cursor: pointer; 
+} 
+.product-details button:hover { 
+background-color: #45a049; 
+} 
+.related-products { 
+margin-top: 2em; 
+} 
+footer { 
+position: fixed; 
+bottom: 0; 
+width: 100%; 
+} 
+JAVASCRIPT 
+document.addEventListener("DOMContentLoaded", function() { 
+const images = document.querySelectorAll("img[data-src]"); 
+const lazyLoad = target => { 
+const io = new IntersectionObserver((entries, observer) => { 
+entries.forEach(entry => { 
+lOMoARcPSD|44174286
+
+
+========== PAGE 58 ==========
+
+if (entry.isIntersecting) { 
+const img = entry.target; 
+img.src = img.dataset.src; 
+observer.disconnect(); 
+} 
+}); 
+}); 
+io.observe(target); 
+}; 
+images.forEach(lazyLoad); 
+}); 
+OUTPUT 
+ 
+lOMoARcPSD|44174286
+
+
+========== PAGE 59 ==========
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+The implementation of the redesigned product page with a focus on addressing high bounce rates 
+yields positive outcomes Reduced Bounce Rates, Increased Engagement, Improved Conversion 
+Rates, Positive User Feedback, Enhanced Brand Perception, and Data-Driven Decision-Making. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 60 ==========
+
+EX. NO: 11 
+Conduct end-to-end user research - User research, creating personas, 
+Ideation process (User stories, Scenarios), Flow diagrams, Flow Mapping 
+DATE: 
+ 
+ 
+AIM 
+The aim is to create a seamless and enjoyable user experience by combining user insights, 
+persona-driven design, ideation, and a clear visualization of user flows throughout the design and 
+development process. 
+PROCEDURE 
+Step – 1: User Research 
+Step – 2: Creating Personas 
+Step – 3: Ideation Process (User Stories, Scenarios) 
+Step – 4: Flow Diagrams 
+Step – 5: Flow Mapping 
+Step – 6: Result 
+PROGRAM 
+PYTHON 
+# Import necessary libraries 
+import pandas as pd 
+# Step 1: Define Objectives and Develop Research Tools 
+research_objectives = ["Understand user preferences", "Identify pain points"] 
+survey_questions = [ 
+"What features do you find most useful?", 
+"What challenges do you face with the current product?", 
+] 
+# Step 4: Conduct Research 
+def conduct_survey(objectives, questions): 
+lOMoARcPSD|44174286
+
+
+========== PAGE 61 ==========
+
+print("Conducting survey...") 
+survey_responses = {} 
+for objective in objectives: 
+print(f"\nObjective: {objective}") 
+responses = {} 
+for question in questions: 
+response = input(f"{question} ") 
+responses[question] = response 
+survey_responses[objective] = responses 
+return survey_responses 
+# Step 5: Analyze Data 
+def analyze_data(survey_responses): 
+print("\nAnalyzing survey data...") 
+df = pd.DataFrame(survey_responses) 
+print(df) 
+# Step 6: Create Personas 
+def create_personas(): 
+# Implementation of persona creation would depend on data analysis and business rules 
+print("Creating personas...") 
+# Step 3: Ideation Process 
+def generate_user_stories(): 
+print("Generating user stories...") 
+# Your implementation for generating user stories goes here 
+# Step 4: Flow Diagrams 
+def map_high_level_flows(): 
+lOMoARcPSD|44174286
+
+
+========== PAGE 62 ==========
+
+print("Mapping high-level user flows...") 
+# Your implementation for creating flow diagrams goes here 
+# Step 5: Flow Mapping 
+def create_detailed_flow_maps(): 
+print("Creating detailed flow maps...") 
+# Your implementation for creating detailed flow maps goes here 
+# Step 6: Result 
+def visualize_results(): 
+print("Visualizing results...") 
+# Your implementation for visualizing results goes here 
+# Main execution 
+survey_responses = conduct_survey(research_objectives, survey_questions) 
+analyze_data(survey_responses) 
+create_personas() 
+generate_user_stories() 
+map_high_level_flows() 
+create_detailed_flow_maps() 
+visualize_results() 
+lOMoARcPSD|44174286
+
+
+========== PAGE 63 ==========
+
+OUTPUT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+It is a well-informed, user-centered design that aligns with both user expectations and business 
+goals. The end product is more likely to be embraced by users, leading to increased user 
+satisfaction and the potential for business success. The iterative nature of the process also 
+positions the design for continuous improvement based on evolving user needs and market 
+dynamics. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 64 ==========
+
+EX. NO: 12 
+Sketch, design with popular tool and build a prototype and perform 
+usability testing and identify improvements 
+DATE: 
+ 
+ 
+AIM 
+Create an optimal user experience (UX) by refining and validating design choices through 
+sketching, high-fidelity designs, and prototypes. Conduct usability testing to identify and 
+implement improvements, ensuring stakeholder alignment and preparing for efficient 
+development. Deliver a user-validated design that exceeds user expectations. 
+PROCEDURE 
+Step – 1: Sketching 
+Step – 2: Design with Popular Tools 
+Step – 3: Build a Prototype 
+Step – 4: Usability Testing 
+Step – 5: Identify Improvements 
+Step – 6: Iterative Design 
+Step – 7: Stakeholder Alignment 
+Step – 8: Prepare for Development 
+Step – 9: Deliver User-Validated Design 
+PROGRAM 
+HTML, CSS AND JAVASCRIPT 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>UX Design Process</title> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 65 ==========
+
+<style> 
+body { 
+font-family: 'Arial', sans-serif; 
+margin: 0; 
+padding: 0; 
+background-color: #f0f0f0; 
+display: flex; 
+justify-content: center; 
+align-items: center; 
+height: 100vh; 
+} 
+#app { 
+background-color: #fff; 
+border-radius: 8px; 
+padding: 20px; 
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+text-align: center; 
+} 
+h1 { 
+color: #333; 
+} 
+button { 
+background-color: #3498db; 
+color: #fff; 
+padding: 10px 20px; 
+lOMoARcPSD|44174286
+
+
+========== PAGE 66 ==========
+
+font-size: 16px; 
+border: none; 
+border-radius: 4px; 
+cursor: pointer; 
+} 
+button:hover { 
+background-color: #2980b9; 
+} 
+</style> 
+</head> 
+<body> 
+<div id="app"> 
+<h1>Welcome to Your Product</h1> 
+<button onclick="simulateButtonClick()">Click Me</button> 
+</div> 
+<script> 
+function simulateButtonClick() { 
+alert('Button Clicked!'); 
+} 
+</script> 
+</body> 
+</html> 
+lOMoARcPSD|44174286
+
+
+========== PAGE 67 ==========
+
+OUTPUT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULT 
+It is a well-informed, refined, and user-validated UI/UX design, poised for successful 
+implementation. The integration of user feedback and iterative design ensures that the final 
+product aligns closely with user needs and expectations, ultimately contributing to a positive user 
+experience and the success of the project. 
+lOMoARcPSD|44174286
+
+
+========== PAGE 68 ==========
+

@@ -1,0 +1,5 @@
+python-interpreter-path = "C:/Users/akash/AppData/Local/Programs/Python/Python313/python.exe"
+site-package-path = [
+  "C:/Users/akash/AppData/Local/Programs/Python/Python313/Lib/site-packages"
+]
+
